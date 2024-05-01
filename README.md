@@ -10,6 +10,7 @@ Welcome to the To-Do application! This is a simple task management app that allo
 -   **SQLite Database**: All tasks are stored in an SQLite database, allowing for simple setup and management.
 -   **Dark Mode / Light Mode**: Switch between dark and light modes to customize the user interface.
 
+***Get Clone***
 ```
-
+https://github.com/Ayoubhj866/todo.git
 ```
